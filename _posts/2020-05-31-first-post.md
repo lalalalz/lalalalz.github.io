@@ -1,10 +1,12 @@
 ---
 title: "블로그 첫 포스팅"
 
+category:
+  - "Blog"
 categories:
-  - Blog
+  - "dev"
 tags:
-  - Blog
+  - "dev111"
 ---
 
 깃헙 페이지와 지킬을 이용하여 블로그를 개설하였다.

@@ -1,15 +1,13 @@
 # main links
 main:
+  - title: "CATEGORIES"
+    url: /categories/
+
   - title: "ABOUT"
     url: "/about/"
 
-  - title: "CATEGORIES"
-    url: /categories/
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+sidebar:
+  - title: "DEV"
+    children:
+      - title: "JAVASCRIPT"
+        url: "/categories/dev/javascript"
